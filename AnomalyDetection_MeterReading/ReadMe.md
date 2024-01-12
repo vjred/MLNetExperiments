@@ -1,7 +1,7 @@
 ﻿1. Related [Github issue](https://github.com/red-gate/sqlmonitor/issues/23060).
 
 2. [Tutorial link](https://github.com/dotnet/machinelearning-samples/blob/main/samples/csharp/getting-started/AnomalyDetection_PowerMeterReadings/README.md)
-
+3. The above did not work as expected so using [this one](https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/sales-anomaly-detection).
 
 # How to solve the problem?
 ```mermaid
