@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNet", "MLNet\MLNet.csproj", "{1590B48F-2A68-43E6-88B0-3316CDE2B8D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnomalyDetection_MeterReading", "AnomalyDetection_MeterReading\AnomalyDetection_MeterReading.csproj", "{50878932-9CE1-4CBB-867B-0F227671DAB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{1590B48F-2A68-43E6-88B0-3316CDE2B8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1590B48F-2A68-43E6-88B0-3316CDE2B8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1590B48F-2A68-43E6-88B0-3316CDE2B8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50878932-9CE1-4CBB-867B-0F227671DAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50878932-9CE1-4CBB-867B-0F227671DAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50878932-9CE1-4CBB-867B-0F227671DAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50878932-9CE1-4CBB-867B-0F227671DAB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
